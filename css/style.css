@@ -1,7 +1,76 @@
 /* RESET CSS */
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* SELEZIONE TAG */
 
+header{
+    height: 100%;
+    background-color: white;
+}
+
+body{
+    background-color: rgb(229, 223, 223);
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
+    
+}
+
+img{
+    width: 200px;
+}
+
 /* SELEZIONE CLASSI */
+
+.container{
+    height: 40px;
+    width: 80%;
+    background-color: white;
+    margin: 20px;
+    padding-left: 20px;
+    padding: 10px;
+}
+
+.container2{
+    height: 500px;
+    width: 80%;
+    background-color: white;
+    margin: 20px;
+    padding-left: 20px;
+    padding: 10px;
+
+}
+
+.m-10{
+    margin: 10px;
+}
+
+.ml-40{
+    margin-left: 40px;
+}
+
+.bg-task{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(52, 148, 251);
+    border-radius: 5px;
+}
+
+.bg-section{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+
 
 /* SELEZIONE TAG */
