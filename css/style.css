@@ -141,7 +141,7 @@ img{
 }
 
 .bg-mobile{
-    background-color: orange);
+    background-color: orange;
     border-radius: 15px;
     padding-top: 4px;
     padding-bottom: 4px;
@@ -177,12 +177,6 @@ img{
     margin-right: 4px;
     color: red;
     font-size: 15px;
-    
-
-
-
-    
-	
 }
 
 .check{
@@ -194,6 +188,5 @@ img{
     margin-right: 4px;
     color: green;
     font-size: 15px;
-   
 }
 
